@@ -15,4 +15,4 @@ iOS app built for my final year project. Helps autistic children aged 5-10 compl
 - The app works fine without both just use guest mode on the onboarding screen
 
 ## Built with
-Swift SwiftUI SwiftData Firebase OpenAI AVFoundation
+Swift SwiftUI SwiftData Firebase OpenAI AVFoundationn
